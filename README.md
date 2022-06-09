@@ -22,7 +22,7 @@ This is for users that need to keep track of a lot of information, it’s easy t
 
 * Websites
   * [Github](https://github.com/jak3ster/My-Note-Taker)
-  * [Live Heroku App](https://<xxxxx>.herokuapp.com/)
+  * [Live Heroku App](https://warm-mountain-90845.herokuapp.com/)
 
 ## Features
 
