@@ -18,7 +18,7 @@ This is for users that need to keep track of a lot of information, it’s easy t
 
 * Demo of application
 
-  ![Note Taker Demo](./public/assets/demo/my-note-taker-demo.gif)
+  ![Note Taker Demo](/assets/demo/my-note-taker-demo.gif)
 
 * Websites
   * [Github](https://github.com/jak3ster/My-Note-Taker)
